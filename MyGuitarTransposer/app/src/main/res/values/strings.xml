@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGuitarTransposer</string>
+    <string name="PleaseSelect">Please Enter the Desired Chord to be Transposed:</string>
+    <string name="begKey">Please Enter the Beginning Key:</string>
+    <string name="targetKey">Please enter the Target Key:</string>
+    <string name="Clear">CLEAR</string>
+    <string name="ok">OK!</string>
+    <string name="result">The Chord that you want is:</string>
+</resources>
